@@ -1,0 +1,12 @@
+#letter{
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 70px;
+   transform: translateX(400px) translateY(-560px);
+}
+
+#pig{
+    text-align: center;
+    height: 500px;
+    width: 500px;
+}
